@@ -1,0 +1,13 @@
+.Title {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+.Contant {
+    width: 90%;
+    margin: auto;
+}
